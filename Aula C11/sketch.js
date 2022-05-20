@@ -16,6 +16,3 @@ function draw()
 {
   background(30);
 }
-
- 
-
